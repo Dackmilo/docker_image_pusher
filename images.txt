@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:5.7
 #redis
-tomcat:8.5.50
+tomcat:8.5.38
